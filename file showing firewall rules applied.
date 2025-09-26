@@ -1,0 +1,12 @@
+Inbound Rules
+
+Select Port → Next
+
+TCP → Specific local ports: 23 → Next
+
+Block the connection → Next
+
+Tick all (Domain, Private, Public) → Next
+
+Name: Block Telnet → Finish
+
